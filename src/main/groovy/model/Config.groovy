@@ -5,7 +5,7 @@ import com.blackbuild.groovy.configdsl.transform.Key
 import com.blackbuild.groovy.configdsl.transform.Owner
 
 /**
- * Created by stephan on 07.10.2016.
+ * Bla
  */
 @DSL
 class Config {
